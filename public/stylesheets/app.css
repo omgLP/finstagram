@@ -1,0 +1,49 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    font-family: 'Caveat', cursive;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.finstagram-post {
+    margin-bottom: 48px;
+}
+
+.finstagram-post .user-info img {
+    border-radius: 70%;
+    height: 15%;
+    width: 15%;
+}
+
+.finstagram-post .comments {
+    font-family: 'Caveat', cursive;
+    font-size: 150%;
+}
+
+.finstagram-post .user-info {
+    font-family: 'Katibeh', cursive;
+    font-size: 150%;
+}
+
+.finstagram-post .comment-count {
+    font-family: 'Katibeh', cursive;
+    font-size: 125%;
+}
+.finstagram-post .actions {
+    font-family: 'Katibeh', cursive;
+    font-size: 150%;
+}
+a.photo{
+    transition: padding 0.5s;
+  }
+a.photo:hover{
+    padding: 10px;
+  }
